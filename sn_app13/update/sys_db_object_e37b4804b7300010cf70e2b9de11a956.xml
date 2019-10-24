@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>ramana</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>sn_app13_ramana</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-24 18:35:51</sys_created_on>
+        <sys_id>e37b4804b7300010cf70e2b9de11a956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ramana</sys_name>
+        <sys_package display_value="app13" source="sn_app13">215913b753200010cf70ddeeff7b124b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app13">215913b753200010cf70ddeeff7b124b</sys_scope>
+        <sys_update_name>sys_db_object_e37b4804b7300010cf70e2b9de11a956</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-24 18:35:51</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="sn_app13.ramana_user" name="sn_app13.ramana_user">c18b4804b7300010cf70e2b9de11a964</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

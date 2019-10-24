@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="ramana" language="en" table="sn_app13_ramana">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>ramana</label>
+            <language>en</language>
+            <name>sn_app13_ramana</name>
+            <plural>ramanas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-24 18:35:52</sys_created_on>
+            <sys_id>9d8b4804b7300010cf70e2b9de11a9db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ramana</sys_name>
+            <sys_package display_value="app13" source="sn_app13">215913b753200010cf70ddeeff7b124b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="app13">215913b753200010cf70ddeeff7b124b</sys_scope>
+            <sys_update_name>sys_documentation_sn_app13_ramana__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-24 18:35:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
